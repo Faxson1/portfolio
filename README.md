@@ -1,4 +1,4 @@
-# Marie Claire Uwimana — Personal Portfolio
+# GAHIMA FAXSON — Personal Portfolio
 
 **Live Portfolio:** [To be added after deployment]  
 **GitHub Repository:** [To be added]  
